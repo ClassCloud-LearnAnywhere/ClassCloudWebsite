@@ -2,7 +2,7 @@
 
 Official website for ClassCloud - Virtual Machine Management for Education
 
-**Live Site**: [classcloud-learnanywhere.github.io/ClassCloudWebsite](https://classcloud-learnanywhere.github.io/ClassCloudWebsite)
+**Live Site**: [learnanywhere.itcw.org](https://learnanywhere.itcw.org/)
 
 ## Quick Start
 
