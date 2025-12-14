@@ -221,5 +221,5 @@ document.head.appendChild(style);
 
 // Console Easter Egg
 console.log('%cClassCloud 🚀', 'font-size: 24px; font-weight: bold; color: #6366f1;');
-console.log('%cInterested in the code? Check us out on GitHub!', 'font-size: 14px; color: #9ca3af;');
-console.log('%chttps://github.com/ClassCloud-LearnAnywhere/ClassCloud', 'font-size: 12px; color: #6366f1; text-decoration: underline;');
+console.log('%cVirtual Machine Management for Education', 'font-size: 14px; color: #9ca3af;');
+console.log('%cBuilt at Indiana Tech', 'font-size: 12px; color: #6366f1;');
