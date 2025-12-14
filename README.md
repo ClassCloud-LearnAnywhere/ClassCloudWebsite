@@ -2,9 +2,9 @@
 
 Official website for ClassCloud - Virtual Machine Management for Education
 
-🌐 **Live Site**: [classcloud-learnanywhere.github.io/ClassCloudWebsite](https://classcloud-learnanywhere.github.io/ClassCloudWebsite)
+**Live Site**: [classcloud-learnanywhere.github.io/ClassCloudWebsite](https://classcloud-learnanywhere.github.io/ClassCloudWebsite)
 
-## 🚀 Quick Start
+## Quick Start
 
 This is a static website built with HTML, CSS, and vanilla JavaScript. It's optimized for GitHub Pages deployment.
 
@@ -50,25 +50,25 @@ ClassCloudWebsite/
 └── README.md
 ```
 
-## 📸 Adding Screenshots
+## Adding Screenshots
 
 To add demo screenshots, take screenshots from the running ClassCloud application and save them in the `assets/` folder. Recommended dimensions: 1200x700px.
 
-## ✨ Features
+## Features
 
-- ✅ Fully responsive design
-- ✅ Dark theme matching ClassCloud brand
-- ✅ Smooth scrolling navigation
-- ✅ Interactive demo tabs
-- ✅ Animated feature cards
-- ✅ FAQ accordion
-- ✅ Contact form
-- ✅ SEO optimized
+- Fully responsive design
+- Dark theme matching ClassCloud brand
+- Smooth scrolling navigation
+- Interactive demo tabs
+- Animated feature cards
+- FAQ accordion
+- Contact form
+- SEO optimized
 
-## 📄 License
+## License
 
 MIT License - Part of the ClassCloud project
 
 ---
 
-Built with ❤️ by [Avery Hughes](https://itsavery.me) and [Martin Topp](https://mtsaga.net)
+Built by [Avery Hughes](https://itsavery.me) and [Martin Topp](https://mtsaga.net)
